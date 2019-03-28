@@ -1,0 +1,16 @@
+MSME_Purchase Enquiry_PP8_4
+
+New change after FDD.:
+1. Purch. Enquiry Header we added "Lead Type" and "Name"
+2. Purch. Enquiry Line we added "Line No." and "Docuement No."
+
+Doubts :
+1. Where should we tag this pages.
+2.Get Enquiry line function,how we can know which Requisition no. should display. or how to avoid duplicate entry.
+3.we unable to understand Requisition process.
+4.for Purch. Enquiry Listpage should editiable or not, because we getting line from funcation.
+	any restication if line get from function.
+5. in listpage user can insert line manually also.
+
+
+
